@@ -1,1 +1,2 @@
-# text_editor_settings
+# Editor Setting Files
+
